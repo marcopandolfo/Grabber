@@ -49,12 +49,16 @@ namespace Teste
                 Console.WriteLine("O usuario não pode ser nulo, Tente novamente...");
                 Console.ForegroundColor = ConsoleColor.Green;
 
+                Call();
+
             }
             catch (WebException ex)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Voce inseriu um usuario que nao existe ou nao é valido, tente novamente...");
                 Console.ForegroundColor = ConsoleColor.Green;
+
+                Call();
 
             }
             catch (Exception ex)
@@ -65,6 +69,8 @@ namespace Teste
                 Console.WriteLine("Tente novamente:");
                 Console.ForegroundColor = ConsoleColor.Green;
 
+                Call();
+
             }
         }
 
@@ -73,6 +79,11 @@ namespace Teste
             Console.WriteLine("Insira o user da pessoa");
             Console.Write(">");
             string userIg = Console.ReadLine();
+            Console.Clear();
+            if (userIg == "")
+            {
+                throw new ArgumentNullException("Insira um usuario valido");
+            }
             Console.Clear();
 
             Profile profile = Instagram.GetProfileByUser(userIg);
