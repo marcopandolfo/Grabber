@@ -1,0 +1,22 @@
+C:\Users\Marco\Desktop\TwitterInfo (2)\TwitterInfos\TwitterInfos\obj\Debug\netcoreapp2.0\TwitterInfos.csprojAssemblyReference.cache
+C:\Users\Marco\Desktop\TwitterInfo (2)\TwitterInfos\TwitterInfos\obj\Debug\netcoreapp2.0\TwitterInfos.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\TwitterInfo (2)\TwitterInfos\TwitterInfos\obj\Debug\netcoreapp2.0\TwitterInfos.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\TwitterInfo (2)\TwitterInfos\TwitterInfos\obj\Debug\netcoreapp2.0\TwitterInfos.AssemblyInfo.cs
+C:\Users\Marco\Desktop\TwitterInfo (2)\TwitterInfos\TwitterInfos\bin\Debug\netcoreapp2.0\TwitterInfos.deps.json
+C:\Users\Marco\Desktop\TwitterInfo (2)\TwitterInfos\TwitterInfos\bin\Debug\netcoreapp2.0\TwitterInfos.runtimeconfig.json
+C:\Users\Marco\Desktop\TwitterInfo (2)\TwitterInfos\TwitterInfos\bin\Debug\netcoreapp2.0\TwitterInfos.runtimeconfig.dev.json
+C:\Users\Marco\Desktop\TwitterInfo (2)\TwitterInfos\TwitterInfos\bin\Debug\netcoreapp2.0\TwitterInfos.dll
+C:\Users\Marco\Desktop\TwitterInfo (2)\TwitterInfos\TwitterInfos\bin\Debug\netcoreapp2.0\TwitterInfos.pdb
+C:\Users\Marco\Desktop\TwitterInfo (2)\TwitterInfos\TwitterInfos\obj\Debug\netcoreapp2.0\TwitterInfos.dll
+C:\Users\Marco\Desktop\TwitterInfo (2)\TwitterInfos\TwitterInfos\obj\Debug\netcoreapp2.0\TwitterInfos.pdb
+C:\Users\Marco\Desktop\TwitterInfos\TwitterInfos\TwitterInfos\bin\Debug\netcoreapp2.0\TwitterInfos.deps.json
+C:\Users\Marco\Desktop\TwitterInfos\TwitterInfos\TwitterInfos\bin\Debug\netcoreapp2.0\TwitterInfos.runtimeconfig.json
+C:\Users\Marco\Desktop\TwitterInfos\TwitterInfos\TwitterInfos\bin\Debug\netcoreapp2.0\TwitterInfos.runtimeconfig.dev.json
+C:\Users\Marco\Desktop\TwitterInfos\TwitterInfos\TwitterInfos\bin\Debug\netcoreapp2.0\TwitterInfos.dll
+C:\Users\Marco\Desktop\TwitterInfos\TwitterInfos\TwitterInfos\bin\Debug\netcoreapp2.0\TwitterInfos.pdb
+C:\Users\Marco\Desktop\TwitterInfos\TwitterInfos\TwitterInfos\obj\Debug\netcoreapp2.0\TwitterInfos.csprojAssemblyReference.cache
+C:\Users\Marco\Desktop\TwitterInfos\TwitterInfos\TwitterInfos\obj\Debug\netcoreapp2.0\TwitterInfos.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\TwitterInfos\TwitterInfos\TwitterInfos\obj\Debug\netcoreapp2.0\TwitterInfos.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\TwitterInfos\TwitterInfos\TwitterInfos\obj\Debug\netcoreapp2.0\TwitterInfos.AssemblyInfo.cs
+C:\Users\Marco\Desktop\TwitterInfos\TwitterInfos\TwitterInfos\obj\Debug\netcoreapp2.0\TwitterInfos.dll
+C:\Users\Marco\Desktop\TwitterInfos\TwitterInfos\TwitterInfos\obj\Debug\netcoreapp2.0\TwitterInfos.pdb
