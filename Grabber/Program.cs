@@ -66,10 +66,6 @@ namespace Teste
                 Console.ForegroundColor = ConsoleColor.Green;
 
             }
-            finally
-            {
-                Call();
-            }
         }
 
         private static void IG()
